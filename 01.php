@@ -1,3 +1,3 @@
 <?php
-	echo "hello word";exit
+	echo "hello word";exit;
 ?>
